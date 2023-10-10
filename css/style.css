@@ -4,7 +4,7 @@ body {
 }
 /*koska tausta on punainen, otsikot on sinisiä */
 h1 {
-  color: blue;
+  color: red;
   text-align: center;
 }
 /*fonttikoko kappaleelle on tosi iso, jotta huomataan css:n vaikutus */
