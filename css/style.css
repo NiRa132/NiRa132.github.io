@@ -1,0 +1,14 @@
+/*taustaväri on punainen */
+body {
+  backround-color: red;
+}
+/*koska tausta on punainen, otsikot on sinisiä */
+h1 {
+  color: blue;
+  text-align: center;
+}
+/*fonttikoko kappaleelle on tosi iso, jotta huomataan css:n vaikutus */
+p {
+  font-family: arial;
+  font-size: 40px;
+}
